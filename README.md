@@ -168,7 +168,6 @@ list.data -> [<b>3</b>, <b>1</b>, <b>null</b>, <b>5</b>, <b>null</b>, <b>20</b>,
 list.remove(6) -> null
 list.size() -> 6
 list.data -> [<b>3</b>, <b>1</b>, <b>null</b>, <b>5</b>, <b>null</b>, <b>20</b>, null]
-list.append(null);
 list.remove(5) -> 20
 list.size() -> 5
 list.data -> [<b>3</b>, <b>1</b>, <b>null</b>, <b>5</b>, <b>null</b>, null, null]
