@@ -9,10 +9,10 @@ public interface MyList<E> {
     /* Add an element at the specified index */
     void insert(int index, E element);
     
-    /* Add an element to the beginning of the list */
+    /* Add an element to the end of the list */
     void append(E element);
     
-    /* Add an element to the end of the list */
+    /* Add an element to the beginning of the list */
     void prepend(E element);
     
     /* Get the element at the given index */
