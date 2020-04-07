@@ -21,9 +21,12 @@ public interface MyList<E> {
     /* Replaces an element at the specified index with a new element and return the original elements */
     E set(int index, E element);
     
+    /* Remove the element at the specified index and return the removed element*/
+    E remove(int index);
+    
     /* Get the number of elements in the list */
     int size();
     
-    /* Remove the element at the specified index and return the removed element*/
-    E remove(int index);
+    /* Adjust the capacity to match the number of elements in the array*/
+    void trimToSize();
 }
