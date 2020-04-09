@@ -1,6 +1,4 @@
-/* Name: Samuel Blake
-   PID: A13176210
-   Email: sblake@ucsd.edu */
+/* TODO: */
 
 import java.io.ByteArrayInputStream;
 import java.io.IOException;
