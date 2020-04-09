@@ -1,4 +1,6 @@
-/* TODO: Add your name, login, and ID as specified in the instructions */
+/* Name: Samuel Blake
+   PID: A13176210
+   Email: sblake@ucsd.edu */
 
 import java.io.ByteArrayInputStream;
 import java.io.IOException;
